@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: url("./TUMULOS\ DA\ GRAMATICA.png") width=10;
+    background-size: cover;
+  
+}
+
+
+#board {
+    width: 600px;
+    height: 600px;
+    /* background-color: green; */
+
+
+}
